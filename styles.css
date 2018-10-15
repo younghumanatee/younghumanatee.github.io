@@ -1,0 +1,26 @@
+.navbar-brand{
+    color: yellow;
+}
+.nav-link{
+    color: yellow;
+}
+
+.jumbotron{
+    background-image: url(rsz_6hawaiian.jpg);
+    padding-top: 20%;
+    padding-bottom: 20%;
+}
+
+.jumbotron1{
+    background-image: url(dinner.jpg);
+    padding-top: 20%;
+    padding-bottom: 20%;
+}
+
+h1{
+    color: blue;
+}
+
+p{
+    color: blue;
+}
