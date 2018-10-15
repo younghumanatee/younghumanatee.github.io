@@ -12,9 +12,36 @@
 }
 
 .jumbotron1{
-    background-image: url(dinner.jpg);
+    background-image: url(rsz_dinner.jpg);
+    background-attachment: fixed;
+    background-size:cover;
+    height: 100%;
+    widows: 10px;
     padding-top: 20%;
     padding-bottom: 20%;
+}
+.jumbotron2{
+    background-image: url(pray.jpg);
+    background-attachment: fixed;
+    background-size:cover;
+    height: 100%;
+    widows: 10px;
+    padding-top: 20%;
+    padding-bottom: 20%;
+}
+.jumbotron3{
+    background-image: url(love1.jpg);
+    background-attachment: fixed;
+    background-size:cover;
+    height: 100%;
+    widows: 10px;
+    padding-top: 20%;
+    padding-bottom: 20%;
+}
+
+.pray1{
+    height:auto;
+    width:100%;
 }
 
 h1{
@@ -23,4 +50,20 @@ h1{
 
 p{
     color: blue;
+}
+
+h2{
+    color: yellow;
+}
+
+p2{
+    color: yellow;
+}
+
+h3{
+    color: yellow;
+}
+
+p3{
+    color: yellow;
 }
